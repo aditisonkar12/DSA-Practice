@@ -46,4 +46,4 @@ matrix =
 ### Constraints:
 - `1 <= matrix.length <= 300`  
 - `1 <= matrix[0].length <= 300`  
-- `0 <= matrix[i][j] <= 1`  
+- `0 <= matrix[i][j] <= 1`
