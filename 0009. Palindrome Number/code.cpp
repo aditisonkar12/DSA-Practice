@@ -1,3 +1,24 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include <algorithm>
+#include <cmath>
+#include <map>
+#include <set>
+#include <unordered_map>
+#include <unordered_set>
+#include <queue>
+#include <stack>
+#include <deque>
+#include <list>
+#include <bitset>
+#include <iomanip>
+#include <numeric>
+#include <climits>
+#include <cassert>
+
+using namespace std;
+
 class Solution {
 public:
     bool isPalindrome(int x) {
