@@ -23,6 +23,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -36,6 +37,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
 ## Backtracking
 |  |
@@ -53,4 +55,8 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/aditisonkar12/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
