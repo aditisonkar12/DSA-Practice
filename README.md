@@ -34,12 +34,14 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditisonkar12/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditisonkar12/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -48,6 +50,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
+| [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,16 +85,19 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 ## Sliding Window
 |  |
