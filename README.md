@@ -24,6 +24,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0219-contains-duplicate-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditisonkar12/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
@@ -31,6 +32,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -43,6 +45,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditisonkar12/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditisonkar12/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -52,6 +55,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -60,6 +64,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
+| [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
 ## Matrix
 |  |
 | ------- |
@@ -95,6 +100,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -109,4 +115,8 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
