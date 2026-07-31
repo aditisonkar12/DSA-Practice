@@ -124,4 +124,16 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
+## Tree
+|  |
+| ------- |
+| [0563-binary-tree-tilt](https://github.com/aditisonkar12/DSA-Practice/tree/master/0563-binary-tree-tilt) |
+## Depth-First Search
+|  |
+| ------- |
+| [0563-binary-tree-tilt](https://github.com/aditisonkar12/DSA-Practice/tree/master/0563-binary-tree-tilt) |
+## Binary Tree
+|  |
+| ------- |
+| [0563-binary-tree-tilt](https://github.com/aditisonkar12/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 <!---LeetCode Topics End-->
