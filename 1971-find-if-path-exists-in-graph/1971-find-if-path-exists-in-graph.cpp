@@ -19,6 +19,7 @@ public:
     bool validPath(int n, vector<vector<int>>& edges, int source,
                    int destination) {
         unordered_map<int, vector<int>> adjList;
+        //building graph
         for (vector<int>& edge : edges) {
             int u = edge[0];
             int v = edge[1];
