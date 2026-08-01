@@ -131,6 +131,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0572-subtree-of-another-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0572-subtree-of-another-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -145,6 +147,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0572-subtree-of-another-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -157,4 +160,5 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0965-univalued-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
