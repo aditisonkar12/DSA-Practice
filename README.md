@@ -123,6 +123,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/aditisonkar12/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditisonkar12/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search
 |  |
@@ -139,6 +140,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/aditisonkar12/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/aditisonkar12/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -164,12 +166,14 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/aditisonkar12/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0965-univalued-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditisonkar12/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/aditisonkar12/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditisonkar12/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Recursion
 |  |
