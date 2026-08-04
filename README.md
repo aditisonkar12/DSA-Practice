@@ -175,6 +175,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditisonkar12/DSA-Practice/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/aditisonkar12/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/aditisonkar12/DSA-Practice/tree/master/1020-number-of-enclaves) |
@@ -203,6 +204,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0547-number-of-provinces](https://github.com/aditisonkar12/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditisonkar12/DSA-Practice/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/aditisonkar12/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/aditisonkar12/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -213,6 +215,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aditisonkar12/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0841-keys-and-rooms](https://github.com/aditisonkar12/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditisonkar12/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Recursion
 |  |
