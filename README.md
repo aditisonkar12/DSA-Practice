@@ -27,6 +27,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0486-predict-the-winner](https://github.com/aditisonkar12/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditisonkar12/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditisonkar12/DSA-Practice/tree/master/0733-flood-fill) |
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/0877-stone-game) |
@@ -83,6 +84,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | ------- |
 | [0200-number-of-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
+| [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditisonkar12/DSA-Practice/tree/master/0733-flood-fill) |
 ## Math
 |  |
@@ -138,6 +140,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aditisonkar12/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditisonkar12/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search
 |  |
@@ -159,6 +162,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0563-binary-tree-tilt](https://github.com/aditisonkar12/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditisonkar12/DSA-Practice/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
@@ -184,6 +188,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | ------- |
 | [0200-number-of-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aditisonkar12/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditisonkar12/DSA-Practice/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
