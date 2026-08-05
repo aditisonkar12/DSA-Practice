@@ -13,7 +13,7 @@ public:
         for (auto it : freq) {
             int num = it.first;
             int val = it.second;
-            pq.push({val, num});
+            pq.push({val, num}); //push according to the higher freq
         }
 
         while (k != 0) {
