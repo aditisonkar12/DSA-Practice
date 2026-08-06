@@ -20,6 +20,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | ------- |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditisonkar12/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -102,6 +103,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditisonkar12/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/aditisonkar12/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditisonkar12/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/0877-stone-game) |
@@ -113,6 +115,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aditisonkar12/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Linked List
 |  |
 | ------- |
