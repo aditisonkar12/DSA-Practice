@@ -35,6 +35,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0733-flood-fill](https://github.com/aditisonkar12/DSA-Practice/tree/master/0733-flood-fill) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aditisonkar12/DSA-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
+| [0851-loud-and-rich](https://github.com/aditisonkar12/DSA-Practice/tree/master/0851-loud-and-rich) |
 | [0877-stone-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/aditisonkar12/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditisonkar12/DSA-Practice/tree/master/1020-number-of-enclaves) |
@@ -201,6 +202,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0733-flood-fill](https://github.com/aditisonkar12/DSA-Practice/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/aditisonkar12/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/aditisonkar12/DSA-Practice/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/aditisonkar12/DSA-Practice/tree/master/0851-loud-and-rich) |
 | [0965-univalued-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/aditisonkar12/DSA-Practice/tree/master/1020-number-of-enclaves) |
@@ -251,6 +253,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0547-number-of-provinces](https://github.com/aditisonkar12/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/aditisonkar12/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/aditisonkar12/DSA-Practice/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/aditisonkar12/DSA-Practice/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/aditisonkar12/DSA-Practice/tree/master/1462-course-schedule-iv) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditisonkar12/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aditisonkar12/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -272,12 +275,14 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0207-course-schedule](https://github.com/aditisonkar12/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/aditisonkar12/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
+| [0851-loud-and-rich](https://github.com/aditisonkar12/DSA-Practice/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/aditisonkar12/DSA-Practice/tree/master/1462-course-schedule-iv) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aditisonkar12/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aditisonkar12/DSA-Practice/tree/master/0207-course-schedule) |
+| [0851-loud-and-rich](https://github.com/aditisonkar12/DSA-Practice/tree/master/0851-loud-and-rich) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aditisonkar12/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Kosaraju's Algorithm
 |  |
