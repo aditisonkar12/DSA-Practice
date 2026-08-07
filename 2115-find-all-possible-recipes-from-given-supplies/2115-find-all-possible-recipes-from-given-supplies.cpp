@@ -4,28 +4,36 @@ public:
                                   vector<vector<string>>& ingredients,
                                   vector<string>& supplies) {
         int n = recipes.size();
-        vector<string> ans;
         unordered_set<string> st(begin(supplies), end(supplies));
 
-        int cnt = n;
-        vector<bool> made(n, false); // items cooked or not yet
-        while (cnt--) {
-            for (int i = 0; i < n; i++) {
-                if (made[i])
-                    continue; // if already made skip
+        // build graph
+        unordered_map<string, vector<int>> adj;
+        vector<int> indegree(n, 0);
+        for (int i = 0; i < n; i++) {
+            for (string& edge : ingredients[i]) {
+                if (!st.count(edge)) {
+                    adj[edge].push_back(i);
+                    indegree[i]++;
+                }
+            }
+        }
 
-                bool canMake = true;
-                for (int j = 0; j < ingredients[i].size(); j++) {
-                    if (!st.count(ingredients[i][j])) {
-                        canMake = false;
-                        break;
-                    }
-                }
-                if (canMake) {
-                    st.insert(recipes[i]);
-                    ans.push_back(recipes[i]);
-                    made[i] = true;
-                }
+        queue<int> q;
+        for (int i = 0; i < n; i++) {
+            if (indegree[i] == 0)
+                q.push(i);
+        }
+
+        vector<string> ans;
+        while (!q.empty()) {
+            int u = q.front();
+            q.pop();
+            ans.push_back(recipes[u]);
+
+            for (int& v : adj[recipes[u]]) {
+                indegree[v]--;
+                if (indegree[v] == 0)
+                    q.push(v);
             }
         }
         return ans;
