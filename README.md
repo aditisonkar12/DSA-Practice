@@ -40,6 +40,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0994-rotting-oranges](https://github.com/aditisonkar12/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditisonkar12/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/aditisonkar12/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
@@ -75,6 +76,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aditisonkar12/DSA-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditisonkar12/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -109,6 +111,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0994-rotting-oranges](https://github.com/aditisonkar12/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditisonkar12/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Math
 |  |
@@ -141,6 +144,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -183,6 +187,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Tree
 |  |
 | ------- |
