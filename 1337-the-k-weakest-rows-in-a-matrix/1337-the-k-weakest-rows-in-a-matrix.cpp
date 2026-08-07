@@ -7,12 +7,11 @@ public:
         priority_queue<pair<int, int>, vector<pair<int, int>>,
                        greater<pair<int, int>>>
             pq;
-        // for (auto& it : freq) {
-        //     pq.push({it.second, it.first});
-        // }
+            
         for (int i = 0; i < n; i++) {
             int cnt = 0;
-            for (int x : mat[i])
+            for (int x : mat[i]) // handles rows with 0 soldiers also which
+                                 // cannot be done with unordered_map
                 cnt += x;
 
             pq.push({cnt, i});
