@@ -43,6 +43,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1406-stone-game-iii](https://github.com/aditisonkar12/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aditisonkar12/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3731-find-missing-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -108,6 +109,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0994-rotting-oranges](https://github.com/aditisonkar12/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditisonkar12/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Math
 |  |
 | ------- |
@@ -175,6 +177,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/aditisonkar12/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditisonkar12/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search
 |  |
@@ -208,6 +211,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1020-number-of-enclaves](https://github.com/aditisonkar12/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1462-course-schedule-iv](https://github.com/aditisonkar12/DSA-Practice/tree/master/1462-course-schedule-iv) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditisonkar12/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/aditisonkar12/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -243,6 +247,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1020-number-of-enclaves](https://github.com/aditisonkar12/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1462-course-schedule-iv](https://github.com/aditisonkar12/DSA-Practice/tree/master/1462-course-schedule-iv) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditisonkar12/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/aditisonkar12/DSA-Practice/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
