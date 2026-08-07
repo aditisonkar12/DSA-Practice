@@ -9,7 +9,7 @@ public:
             int u = e[0];
             int v = e[1];
             adj[v].push_back(u);
-            indegree[u]++; // arrows goes from v->u so we increase indgegree of
+            indegree[u]++; // arrows goes from v->u so we increase indgeree of
                            // u
         }
 
