@@ -6,14 +6,15 @@ public:
         int i = 0, j = n - 1;
         int maxScore = 0;
         int score = 0;
-
+        
+        //greedy approach
         while (i <= j) {
-            if (power >= tokens[i]) {
+            if (power >= tokens[i]) { //use power to gain score using tokens in the beginning
                 power -= tokens[i];
                 score++;
                 maxScore = max(maxScore, score);
                 i++;
-            } else if (score >= 1) {
+            } else if (score >= 1) { //use score to gain power from end (max values in the end)
                 power += tokens[j];
                 score--;
                 j--;
