@@ -210,6 +210,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0200-number-of-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aditisonkar12/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/aditisonkar12/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/aditisonkar12/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -239,6 +240,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditisonkar12/DSA-Practice/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/aditisonkar12/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/aditisonkar12/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/aditisonkar12/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/aditisonkar12/DSA-Practice/tree/master/0851-loud-and-rich) |
@@ -275,6 +277,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0547-number-of-provinces](https://github.com/aditisonkar12/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditisonkar12/DSA-Practice/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/aditisonkar12/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/aditisonkar12/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/aditisonkar12/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0965-univalued-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0965-univalued-binary-tree) |
@@ -292,6 +295,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0207-course-schedule](https://github.com/aditisonkar12/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aditisonkar12/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/aditisonkar12/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/aditisonkar12/DSA-Practice/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/aditisonkar12/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/aditisonkar12/DSA-Practice/tree/master/0851-loud-and-rich) |
@@ -367,4 +371,12 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/aditisonkar12/DSA-Practice/tree/master/0881-boats-to-save-people) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/aditisonkar12/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/aditisonkar12/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
