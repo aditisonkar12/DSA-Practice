@@ -52,6 +52,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aditisonkar12/DSA-Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aditisonkar12/DSA-Practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2974-minimum-number-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3731-find-missing-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -98,6 +99,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aditisonkar12/DSA-Practice/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aditisonkar12/DSA-Practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2974-minimum-number-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditisonkar12/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/3731-find-missing-elements) |
@@ -192,6 +194,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aditisonkar12/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Counting
