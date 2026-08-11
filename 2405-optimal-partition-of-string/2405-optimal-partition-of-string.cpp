@@ -15,5 +15,8 @@ public:
             lastSeen[ch - 'a'] = i;
         }
         return cnt + 1;
+        // cnt only stores prev unique substrings and end without
+        // checking the last one if index reached out of boundary
+        // means last remaining substr was also unique hence we do +1
     }
 };
