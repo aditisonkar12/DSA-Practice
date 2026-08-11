@@ -48,6 +48,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1833-maximum-ice-cream-bars](https://github.com/aditisonkar12/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aditisonkar12/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aditisonkar12/DSA-Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/aditisonkar12/DSA-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -77,6 +78,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0948-bag-of-tokens](https://github.com/aditisonkar12/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/aditisonkar12/DSA-Practice/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/1328-break-a-palindrome) |
+| [1833-maximum-ice-cream-bars](https://github.com/aditisonkar12/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aditisonkar12/DSA-Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/aditisonkar12/DSA-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/aditisonkar12/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -99,6 +101,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0948-bag-of-tokens](https://github.com/aditisonkar12/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/aditisonkar12/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aditisonkar12/DSA-Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aditisonkar12/DSA-Practice/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/aditisonkar12/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -367,6 +370,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/aditisonkar12/DSA-Practice/tree/master/0561-array-partition) |
+| [1833-maximum-ice-cream-bars](https://github.com/aditisonkar12/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 ## Enumeration
 |  |
 | ------- |
