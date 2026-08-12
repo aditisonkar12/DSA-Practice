@@ -79,6 +79,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0991-broken-calculator](https://github.com/aditisonkar12/DSA-Practice/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/1328-break-a-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditisonkar12/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/aditisonkar12/DSA-Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aditisonkar12/DSA-Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/aditisonkar12/DSA-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/aditisonkar12/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -123,6 +124,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [1328-break-a-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/1328-break-a-palindrome) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/aditisonkar12/DSA-Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aditisonkar12/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2405-optimal-partition-of-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -159,6 +161,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0991-broken-calculator](https://github.com/aditisonkar12/DSA-Practice/tree/master/0991-broken-calculator) |
 | [1406-stone-game-iii](https://github.com/aditisonkar12/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/aditisonkar12/DSA-Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditisonkar12/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -333,6 +336,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0486-predict-the-winner](https://github.com/aditisonkar12/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aditisonkar12/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/aditisonkar12/DSA-Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Topological Sort
 |  |
 | ------- |
