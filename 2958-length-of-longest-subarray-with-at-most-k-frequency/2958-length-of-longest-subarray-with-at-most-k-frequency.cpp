@@ -9,11 +9,6 @@ public:
 
         for (int i = 0; i < n; i++) {
             freq[nums[i]]++;
-            // int val = freq[nums[i]];
-            // if (val <= k) {
-            //     cnt += 1;
-            //     maxi = max(maxi, cnt);
-            // } else {
             while (freq[nums[i]] > k) {
                 freq[nums[extra]]--;
                 extra++;
@@ -21,7 +16,6 @@ public:
             }
             cnt++;
             maxi = max(maxi, cnt);
-            // }
         }
         return maxi;
     }
