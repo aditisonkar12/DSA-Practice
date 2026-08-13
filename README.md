@@ -49,6 +49,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditisonkar12/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditisonkar12/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/aditisonkar12/DSA-Practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aditisonkar12/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aditisonkar12/DSA-Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -82,6 +83,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0991-broken-calculator](https://github.com/aditisonkar12/DSA-Practice/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/1328-break-a-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditisonkar12/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditisonkar12/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/aditisonkar12/DSA-Practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/aditisonkar12/DSA-Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aditisonkar12/DSA-Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -108,6 +110,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditisonkar12/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditisonkar12/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/aditisonkar12/DSA-Practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/aditisonkar12/DSA-Practice/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/aditisonkar12/DSA-Practice/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
