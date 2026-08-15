@@ -60,6 +60,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aditisonkar12/DSA-Practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aditisonkar12/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aditisonkar12/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditisonkar12/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -97,6 +98,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2405-optimal-partition-of-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aditisonkar12/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aditisonkar12/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
