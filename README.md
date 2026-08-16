@@ -101,6 +101,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aditisonkar12/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aditisonkar12/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/aditisonkar12/DSA-Practice/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -148,6 +149,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aditisonkar12/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2405-optimal-partition-of-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/aditisonkar12/DSA-Practice/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Backtracking
 |  |
 | ------- |
