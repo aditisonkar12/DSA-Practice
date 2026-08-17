@@ -187,6 +187,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1406-stone-game-iii](https://github.com/aditisonkar12/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/aditisonkar12/DSA-Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2119-a-number-after-a-double-reversal](https://github.com/aditisonkar12/DSA-Practice/tree/master/2119-a-number-after-a-double-reversal) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/aditisonkar12/DSA-Practice/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
