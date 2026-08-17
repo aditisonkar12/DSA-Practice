@@ -11,8 +11,9 @@ public:
                 roundedAmount = purchaseAmount - rem;
             }
         }
-        else
+        else{
             roundedAmount = purchaseAmount;
+        }
         return total - roundedAmount;
     }
 };
