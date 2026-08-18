@@ -29,6 +29,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/aditisonkar12/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/0500-keyboard-row) |
+| [0517-super-washing-machines](https://github.com/aditisonkar12/DSA-Practice/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/aditisonkar12/DSA-Practice/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/aditisonkar12/DSA-Practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditisonkar12/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -84,6 +85,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0517-super-washing-machines](https://github.com/aditisonkar12/DSA-Practice/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/aditisonkar12/DSA-Practice/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/aditisonkar12/DSA-Practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
