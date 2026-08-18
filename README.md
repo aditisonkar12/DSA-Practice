@@ -145,6 +145,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
+| [0434-number-of-segments-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/0500-keyboard-row) |
 | [0692-top-k-frequent-words](https://github.com/aditisonkar12/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
