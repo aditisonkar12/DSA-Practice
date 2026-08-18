@@ -45,6 +45,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0881-boats-to-save-people](https://github.com/aditisonkar12/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/aditisonkar12/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/aditisonkar12/DSA-Practice/tree/master/0994-rotting-oranges) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/aditisonkar12/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/aditisonkar12/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/aditisonkar12/DSA-Practice/tree/master/1131-maximum-of-absolute-value-expression) |
 | [1254-number-of-closed-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/1254-number-of-closed-islands) |
@@ -428,6 +429,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/aditisonkar12/DSA-Practice/tree/master/0645-set-mismatch) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/aditisonkar12/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Simulation
 |  |
 | ------- |
