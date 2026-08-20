@@ -43,6 +43,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0832-flipping-an-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/aditisonkar12/DSA-Practice/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/aditisonkar12/DSA-Practice/tree/master/0851-loud-and-rich) |
+| [0867-transpose-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/aditisonkar12/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/aditisonkar12/DSA-Practice/tree/master/0948-bag-of-tokens) |
@@ -189,6 +190,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditisonkar12/DSA-Practice/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/aditisonkar12/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aditisonkar12/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/1254-number-of-closed-islands) |
@@ -458,6 +460,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0043-multiply-strings](https://github.com/aditisonkar12/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0566-reshape-the-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
