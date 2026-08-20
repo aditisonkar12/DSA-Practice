@@ -31,6 +31,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0500-keyboard-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/0500-keyboard-row) |
 | [0517-super-washing-machines](https://github.com/aditisonkar12/DSA-Practice/tree/master/0517-super-washing-machines) |
 | [0561-array-partition](https://github.com/aditisonkar12/DSA-Practice/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/aditisonkar12/DSA-Practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditisonkar12/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/aditisonkar12/DSA-Practice/tree/master/0645-set-mismatch) |
@@ -181,6 +182,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0200-number-of-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
+| [0566-reshape-the-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/aditisonkar12/DSA-Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aditisonkar12/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -446,6 +448,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aditisonkar12/DSA-Practice/tree/master/0043-multiply-strings) |
+| [0566-reshape-the-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [2974-minimum-number-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Timsort
