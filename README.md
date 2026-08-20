@@ -57,6 +57,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditisonkar12/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditisonkar12/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/aditisonkar12/DSA-Practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
@@ -196,6 +197,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1254-number-of-closed-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Math
 |  |
