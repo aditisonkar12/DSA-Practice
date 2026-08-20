@@ -24,6 +24,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0200-number-of-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0289-game-of-life](https://github.com/aditisonkar12/DSA-Practice/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -187,6 +188,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | ------- |
 | [0200-number-of-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
+| [0289-game-of-life](https://github.com/aditisonkar12/DSA-Practice/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0566-reshape-the-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
@@ -462,6 +464,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aditisonkar12/DSA-Practice/tree/master/0043-multiply-strings) |
+| [0289-game-of-life](https://github.com/aditisonkar12/DSA-Practice/tree/master/0289-game-of-life) |
 | [0566-reshape-the-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/0867-transpose-matrix) |
