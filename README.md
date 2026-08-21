@@ -76,6 +76,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditisonkar12/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3033-modify-the-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/3033-modify-the-matrix) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditisonkar12/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/3731-find-missing-elements) |
@@ -203,6 +204,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1572-matrix-diagonal-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2643-row-with-maximum-ones](https://github.com/aditisonkar12/DSA-Practice/tree/master/2643-row-with-maximum-ones) |
+| [3033-modify-the-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/3033-modify-the-matrix) |
 ## Math
 |  |
 | ------- |
