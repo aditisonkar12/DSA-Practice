@@ -218,6 +218,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0273-integer-to-english-words](https://github.com/aditisonkar12/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aditisonkar12/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/aditisonkar12/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/aditisonkar12/DSA-Practice/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditisonkar12/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/aditisonkar12/DSA-Practice/tree/master/0991-broken-calculator) |
