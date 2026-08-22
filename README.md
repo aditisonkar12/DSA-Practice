@@ -229,6 +229,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditisonkar12/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditisonkar12/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Stack
 |  |
 | ------- |
