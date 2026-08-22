@@ -240,6 +240,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aditisonkar12/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -409,6 +410,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0233-number-of-digit-one](https://github.com/aditisonkar12/DSA-Practice/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/aditisonkar12/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/aditisonkar12/DSA-Practice/tree/master/0486-predict-the-winner) |
