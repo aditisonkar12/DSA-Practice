@@ -60,6 +60,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
+| [1816-truncate-sentence](https://github.com/aditisonkar12/DSA-Practice/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditisonkar12/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditisonkar12/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/aditisonkar12/DSA-Practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
@@ -171,6 +172,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1328-break-a-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/1328-break-a-palindrome) |
 | [1496-path-crossing](https://github.com/aditisonkar12/DSA-Practice/tree/master/1496-path-crossing) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1816-truncate-sentence](https://github.com/aditisonkar12/DSA-Practice/tree/master/1816-truncate-sentence) |
 | [1927-sum-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/aditisonkar12/DSA-Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aditisonkar12/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
