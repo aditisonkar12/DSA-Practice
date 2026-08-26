@@ -179,6 +179,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/aditisonkar12/DSA-Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aditisonkar12/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aditisonkar12/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2278-percentage-of-letter-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -496,6 +497,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0566-reshape-the-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/0867-transpose-matrix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
