@@ -178,6 +178,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1927-sum-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/aditisonkar12/DSA-Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aditisonkar12/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2129-capitalize-the-title](https://github.com/aditisonkar12/DSA-Practice/tree/master/2129-capitalize-the-title) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aditisonkar12/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2278-percentage-of-letter-in-string) |
