@@ -1,11 +1,11 @@
 class Solution {
 public:
     string capitalizeTitle(string title) {
-        // int n=title.length();
-        for (int i = 0; i < title.length(); i++) {
+        int n = title.length();
+        for (int i = 0; i < n; i++) {
             if (i == 0 || title[i - 1] == ' ') {
                 int j = i;
-                while (j < title.length() && title[j] != ' ') {
+                while (j < n && title[j] != ' ') {
                     j++;
                 }
 
