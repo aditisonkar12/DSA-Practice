@@ -184,6 +184,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2278-percentage-of-letter-in-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2278-percentage-of-letter-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2937-make-three-strings-equal](https://github.com/aditisonkar12/DSA-Practice/tree/master/2937-make-three-strings-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/aditisonkar12/DSA-Practice/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Backtracking
