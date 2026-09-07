@@ -98,6 +98,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0486-predict-the-winner](https://github.com/aditisonkar12/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/aditisonkar12/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
@@ -174,6 +175,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [0824-goat-latin](https://github.com/aditisonkar12/DSA-Practice/tree/master/0824-goat-latin) |
 | [0848-shifting-letters](https://github.com/aditisonkar12/DSA-Practice/tree/master/0848-shifting-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1328-break-a-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/1328-break-a-palindrome) |
 | [1496-path-crossing](https://github.com/aditisonkar12/DSA-Practice/tree/master/1496-path-crossing) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/1805-number-of-different-integers-in-a-string) |
