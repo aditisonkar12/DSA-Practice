@@ -21,6 +21,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditisonkar12/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
@@ -230,6 +231,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | ------- |
 | [0043-multiply-strings](https://github.com/aditisonkar12/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditisonkar12/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/aditisonkar12/DSA-Practice/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/aditisonkar12/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aditisonkar12/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -270,6 +272,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | ------- |
 | [0061-rotate-list](https://github.com/aditisonkar12/DSA-Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0189-rotate-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/0189-rotate-array) |
 | [0541-reverse-string-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [0832-flipping-an-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/aditisonkar12/DSA-Practice/tree/master/0881-boats-to-save-people) |
