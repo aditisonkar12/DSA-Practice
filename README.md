@@ -20,6 +20,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | ------- |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/aditisonkar12/DSA-Practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditisonkar12/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/0200-number-of-islands) |
@@ -501,6 +502,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aditisonkar12/DSA-Practice/tree/master/0136-single-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aditisonkar12/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/aditisonkar12/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0832-flipping-an-image) |
