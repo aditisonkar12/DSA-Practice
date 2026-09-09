@@ -32,7 +32,7 @@ public:
             len++;
             tail = tail->next;
         }
-        
+
         k = k % len;
         if (k == 0)
             return head;
@@ -40,7 +40,9 @@ public:
         //     return head;
         // k = k % len;
 
+        //make ll circular
         tail->next = head;
+        
         ListNode* newTail = findNthNode(head, len - k);
         head = newTail->next;
         newTail->next = NULL;
