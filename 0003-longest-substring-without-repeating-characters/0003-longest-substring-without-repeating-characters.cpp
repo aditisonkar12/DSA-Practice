@@ -22,7 +22,7 @@ public:
         // return maxLen;
         unordered_map<char, int> mp;
         int l = 0, maxLen = 0;
-        for (int r = 0; r < s.length(); r++) {
+        for (int r = 0; r < n; r++) {
 
             if (mp.find(s[r]) != mp.end() && mp[s[r]] >= l) {
                 l = mp[s[r]] + 1;
