@@ -261,12 +261,14 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/aditisonkar12/DSA-Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aditisonkar12/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/aditisonkar12/DSA-Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0541-reverse-string-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [0832-flipping-an-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0832-flipping-an-image) |
