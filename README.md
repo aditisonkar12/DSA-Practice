@@ -19,6 +19,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aditisonkar12/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/aditisonkar12/DSA-Practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditisonkar12/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -95,6 +96,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aditisonkar12/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/aditisonkar12/DSA-Practice/tree/master/0233-number-of-digit-one) |
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/aditisonkar12/DSA-Practice/tree/master/0486-predict-the-winner) |
