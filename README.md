@@ -243,6 +243,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0486-predict-the-winner](https://github.com/aditisonkar12/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/aditisonkar12/DSA-Practice/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditisonkar12/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/aditisonkar12/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/aditisonkar12/DSA-Practice/tree/master/0991-broken-calculator) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/aditisonkar12/DSA-Practice/tree/master/1131-maximum-of-absolute-value-expression) |
@@ -552,4 +553,8 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0848-shifting-letters](https://github.com/aditisonkar12/DSA-Practice/tree/master/0848-shifting-letters) |
 | [3903-smallest-stable-index-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aditisonkar12/DSA-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
