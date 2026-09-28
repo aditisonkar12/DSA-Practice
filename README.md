@@ -205,6 +205,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/aditisonkar12/DSA-Practice/tree/master/0077-combinations) |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
