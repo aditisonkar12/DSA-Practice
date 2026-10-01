@@ -168,6 +168,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditisonkar12/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/aditisonkar12/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
@@ -268,6 +269,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditisonkar12/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -568,5 +570,6 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
