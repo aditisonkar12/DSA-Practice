@@ -194,6 +194,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1328-break-a-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/1328-break-a-palindrome) |
 | [1496-path-crossing](https://github.com/aditisonkar12/DSA-Practice/tree/master/1496-path-crossing) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aditisonkar12/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1816-truncate-sentence](https://github.com/aditisonkar12/DSA-Practice/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aditisonkar12/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -299,6 +300,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0832-flipping-an-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/aditisonkar12/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/aditisonkar12/DSA-Practice/tree/master/0948-bag-of-tokens) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aditisonkar12/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Heap (Priority Queue)
 |  |
