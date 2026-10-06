@@ -134,6 +134,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aditisonkar12/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aditisonkar12/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [2938-separate-black-and-white-balls](https://github.com/aditisonkar12/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/aditisonkar12/DSA-Practice/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Sorting
@@ -208,6 +209,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2405-optimal-partition-of-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2937-make-three-strings-equal](https://github.com/aditisonkar12/DSA-Practice/tree/master/2937-make-three-strings-equal) |
+| [2938-separate-black-and-white-balls](https://github.com/aditisonkar12/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/aditisonkar12/DSA-Practice/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Backtracking
@@ -301,6 +303,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0881-boats-to-save-people](https://github.com/aditisonkar12/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/aditisonkar12/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aditisonkar12/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2938-separate-black-and-white-balls](https://github.com/aditisonkar12/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Heap (Priority Queue)
 |  |
