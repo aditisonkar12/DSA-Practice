@@ -47,6 +47,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0733-flood-fill](https://github.com/aditisonkar12/DSA-Practice/tree/master/0733-flood-fill) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aditisonkar12/DSA-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
+| [0825-friends-of-appropriate-ages](https://github.com/aditisonkar12/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/aditisonkar12/DSA-Practice/tree/master/0848-shifting-letters) |
 | [0851-loud-and-rich](https://github.com/aditisonkar12/DSA-Practice/tree/master/0851-loud-and-rich) |
@@ -153,6 +154,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aditisonkar12/DSA-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
+| [0825-friends-of-appropriate-ages](https://github.com/aditisonkar12/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/aditisonkar12/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/aditisonkar12/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -302,6 +304,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0189-rotate-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/0189-rotate-array) |
 | [0541-reverse-string-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0825-friends-of-appropriate-ages](https://github.com/aditisonkar12/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/aditisonkar12/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/aditisonkar12/DSA-Practice/tree/master/0948-bag-of-tokens) |
@@ -392,6 +395,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
+| [0825-friends-of-appropriate-ages](https://github.com/aditisonkar12/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
