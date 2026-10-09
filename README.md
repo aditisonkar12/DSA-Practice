@@ -219,6 +219,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2937-make-three-strings-equal](https://github.com/aditisonkar12/DSA-Practice/tree/master/2937-make-three-strings-equal) |
 | [2938-separate-black-and-white-balls](https://github.com/aditisonkar12/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3110-score-of-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/3110-score-of-a-string) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/aditisonkar12/DSA-Practice/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Backtracking
 |  |
