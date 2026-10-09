@@ -93,6 +93,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [3731-find-missing-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/aditisonkar12/DSA-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -252,6 +253,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2643-row-with-maximum-ones](https://github.com/aditisonkar12/DSA-Practice/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditisonkar12/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/3033-modify-the-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/aditisonkar12/DSA-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
 | ------- |
@@ -486,6 +488,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1971-find-if-path-exists-in-graph](https://github.com/aditisonkar12/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aditisonkar12/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3310-remove-methods-from-project](https://github.com/aditisonkar12/DSA-Practice/tree/master/3310-remove-methods-from-project) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/aditisonkar12/DSA-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Recursion
 |  |
 | ------- |
