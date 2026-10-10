@@ -78,6 +78,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/aditisonkar12/DSA-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/aditisonkar12/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aditisonkar12/DSA-Practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/aditisonkar12/DSA-Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2643-row-with-maximum-ones](https://github.com/aditisonkar12/DSA-Practice/tree/master/2643-row-with-maximum-ones) |
@@ -568,6 +569,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0645-set-mismatch](https://github.com/aditisonkar12/DSA-Practice/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/aditisonkar12/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/aditisonkar12/DSA-Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Simulation
 |  |
 | ------- |
