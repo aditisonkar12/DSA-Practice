@@ -502,6 +502,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0841-keys-and-rooms](https://github.com/aditisonkar12/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/aditisonkar12/DSA-Practice/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/aditisonkar12/DSA-Practice/tree/master/1462-course-schedule-iv) |
+| [1791-find-center-of-star-graph](https://github.com/aditisonkar12/DSA-Practice/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aditisonkar12/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aditisonkar12/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3310-remove-methods-from-project](https://github.com/aditisonkar12/DSA-Practice/tree/master/3310-remove-methods-from-project) |
