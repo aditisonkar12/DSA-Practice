@@ -281,6 +281,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0877-stone-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/aditisonkar12/DSA-Practice/tree/master/0991-broken-calculator) |
 | [1131-maximum-of-absolute-value-expression](https://github.com/aditisonkar12/DSA-Practice/tree/master/1131-maximum-of-absolute-value-expression) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aditisonkar12/DSA-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/aditisonkar12/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1927-sum-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/1927-sum-game) |
