@@ -63,6 +63,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/aditisonkar12/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
