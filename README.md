@@ -82,6 +82,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aditisonkar12/DSA-Practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditisonkar12/DSA-Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/aditisonkar12/DSA-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2643-row-with-maximum-ones](https://github.com/aditisonkar12/DSA-Practice/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditisonkar12/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -177,6 +178,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/aditisonkar12/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aditisonkar12/DSA-Practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/aditisonkar12/DSA-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditisonkar12/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/2974-minimum-number-game) |
@@ -261,6 +263,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/aditisonkar12/DSA-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2643-row-with-maximum-ones](https://github.com/aditisonkar12/DSA-Practice/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditisonkar12/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/3033-modify-the-matrix) |
