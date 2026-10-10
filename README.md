@@ -287,6 +287,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1927-sum-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/aditisonkar12/DSA-Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aditisonkar12/DSA-Practice/tree/master/2119-a-number-after-a-double-reversal) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/aditisonkar12/DSA-Practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/aditisonkar12/DSA-Practice/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditisonkar12/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
