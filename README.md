@@ -97,6 +97,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditisonkar12/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditisonkar12/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -583,6 +584,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0832-flipping-an-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/aditisonkar12/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditisonkar12/DSA-Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -595,6 +597,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Timsort
 |  |
 | ------- |
