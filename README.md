@@ -66,6 +66,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
@@ -611,6 +612,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/aditisonkar12/DSA-Practice/tree/master/0848-shifting-letters) |
+| [1480-running-sum-of-1d-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Geometry
