@@ -84,6 +84,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aditisonkar12/DSA-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2592-maximize-greatness-of-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/aditisonkar12/DSA-Practice/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditisonkar12/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aditisonkar12/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -146,6 +147,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aditisonkar12/DSA-Practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2405-optimal-partition-of-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2592-maximize-greatness-of-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aditisonkar12/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aditisonkar12/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2938-separate-black-and-white-balls](https://github.com/aditisonkar12/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
@@ -181,6 +183,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aditisonkar12/DSA-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2592-maximize-greatness-of-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditisonkar12/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -332,6 +335,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0881-boats-to-save-people](https://github.com/aditisonkar12/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/aditisonkar12/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aditisonkar12/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2592-maximize-greatness-of-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditisonkar12/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2938-separate-black-and-white-balls](https://github.com/aditisonkar12/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/3940-limit-occurrences-in-sorted-array) |
