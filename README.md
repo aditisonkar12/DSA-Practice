@@ -88,6 +88,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2643-row-with-maximum-ones](https://github.com/aditisonkar12/DSA-Practice/tree/master/2643-row-with-maximum-ones) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditisonkar12/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aditisonkar12/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditisonkar12/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aditisonkar12/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aditisonkar12/DSA-Practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditisonkar12/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -149,6 +150,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2592-maximize-greatness-of-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aditisonkar12/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditisonkar12/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aditisonkar12/DSA-Practice/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2938-separate-black-and-white-balls](https://github.com/aditisonkar12/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -382,6 +384,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2405-optimal-partition-of-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aditisonkar12/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditisonkar12/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/aditisonkar12/DSA-Practice/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditisonkar12/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditisonkar12/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -588,6 +591,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0832-flipping-an-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/aditisonkar12/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditisonkar12/DSA-Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditisonkar12/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
