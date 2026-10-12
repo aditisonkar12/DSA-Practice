@@ -97,6 +97,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3033-modify-the-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/3033-modify-the-matrix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditisonkar12/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -273,6 +274,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2643-row-with-maximum-ones](https://github.com/aditisonkar12/DSA-Practice/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditisonkar12/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/3033-modify-the-matrix) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aditisonkar12/DSA-Practice/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
@@ -340,6 +342,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2592-maximize-greatness-of-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/2592-maximize-greatness-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/aditisonkar12/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2938-separate-black-and-white-balls](https://github.com/aditisonkar12/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
+| [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Heap (Priority Queue)
 |  |
