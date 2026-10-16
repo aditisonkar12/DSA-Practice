@@ -218,6 +218,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [0824-goat-latin](https://github.com/aditisonkar12/DSA-Practice/tree/master/0824-goat-latin) |
 | [0848-shifting-letters](https://github.com/aditisonkar12/DSA-Practice/tree/master/0848-shifting-letters) |
+| [0859-buddy-strings](https://github.com/aditisonkar12/DSA-Practice/tree/master/0859-buddy-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1328-break-a-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/1328-break-a-palindrome) |
@@ -379,6 +380,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0697-degree-of-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
+| [0859-buddy-strings](https://github.com/aditisonkar12/DSA-Practice/tree/master/0859-buddy-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aditisonkar12/DSA-Practice/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1496-path-crossing](https://github.com/aditisonkar12/DSA-Practice/tree/master/1496-path-crossing) |
