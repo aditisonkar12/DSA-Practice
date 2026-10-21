@@ -54,6 +54,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0867-transpose-matrix](https://github.com/aditisonkar12/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/aditisonkar12/DSA-Practice/tree/master/0881-boats-to-save-people) |
+| [0896-monotonic-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/0896-monotonic-array) |
 | [0948-bag-of-tokens](https://github.com/aditisonkar12/DSA-Practice/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/aditisonkar12/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/aditisonkar12/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
