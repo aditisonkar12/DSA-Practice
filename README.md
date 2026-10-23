@@ -103,6 +103,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditisonkar12/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aditisonkar12/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aditisonkar12/DSA-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/3731-find-missing-elements) |
@@ -605,6 +606,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1018-binary-prefix-divisible-by-5](https://github.com/aditisonkar12/DSA-Practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditisonkar12/DSA-Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aditisonkar12/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aditisonkar12/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
