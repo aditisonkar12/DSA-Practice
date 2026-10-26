@@ -166,6 +166,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/aditisonkar12/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/aditisonkar12/DSA-Practice/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -210,6 +211,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/aditisonkar12/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/aditisonkar12/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aditisonkar12/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0434-number-of-segments-in-a-string) |
@@ -376,6 +378,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/aditisonkar12/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/aditisonkar12/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/0500-keyboard-row) |
