@@ -18,6 +18,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditisonkar12/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -370,6 +371,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditisonkar12/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
