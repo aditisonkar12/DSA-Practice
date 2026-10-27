@@ -10,10 +10,11 @@ public:
             int breadth = j - i;
             ans = max(ans, length * breadth);
 
-            if (height[i] < height[j])
+            if (height[i] < height[j]) {
                 i++;
-            else
+            } else {
                 j--;
+            }
         }
         return ans;
     }
