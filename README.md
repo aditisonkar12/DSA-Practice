@@ -20,6 +20,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | ------- |
 | [0001-two-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditisonkar12/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -168,6 +169,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/aditisonkar12/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditisonkar12/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -344,6 +346,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/aditisonkar12/DSA-Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/0125-valid-palindrome) |
