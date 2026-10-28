@@ -216,6 +216,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditisonkar12/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/aditisonkar12/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
@@ -353,6 +354,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0011-container-with-most-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/aditisonkar12/DSA-Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -512,6 +514,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -689,4 +692,16 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
