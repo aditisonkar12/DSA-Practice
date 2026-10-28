@@ -22,6 +22,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0011-container-with-most-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditisonkar12/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -122,6 +123,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditisonkar12/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/aditisonkar12/DSA-Practice/tree/master/0233-number-of-digit-one) |
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -333,6 +335,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditisonkar12/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -350,6 +353,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0011-container-with-most-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/aditisonkar12/DSA-Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -681,4 +685,8 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
