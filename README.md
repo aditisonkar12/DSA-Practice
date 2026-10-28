@@ -126,6 +126,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0042-trapping-rain-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditisonkar12/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/aditisonkar12/DSA-Practice/tree/master/0233-number-of-digit-one) |
+| [0392-is-subsequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/aditisonkar12/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
@@ -224,6 +225,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/aditisonkar12/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/aditisonkar12/DSA-Practice/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/aditisonkar12/DSA-Practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aditisonkar12/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
@@ -361,6 +363,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0825-friends-of-appropriate-ages](https://github.com/aditisonkar12/DSA-Practice/tree/master/0825-friends-of-appropriate-ages) |
