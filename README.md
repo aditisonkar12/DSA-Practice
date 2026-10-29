@@ -347,6 +347,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aditisonkar12/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/aditisonkar12/DSA-Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aditisonkar12/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -566,6 +567,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aditisonkar12/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0233-number-of-digit-one](https://github.com/aditisonkar12/DSA-Practice/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/aditisonkar12/DSA-Practice/tree/master/0273-integer-to-english-words) |
