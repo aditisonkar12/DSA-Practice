@@ -25,6 +25,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0042-trapping-rain-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditisonkar12/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/aditisonkar12/DSA-Practice/tree/master/0136-single-number) |
@@ -177,6 +178,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0015-3sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/aditisonkar12/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditisonkar12/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/aditisonkar12/DSA-Practice/tree/master/0274-h-index) |
@@ -724,4 +726,8 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aditisonkar12/DSA-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
