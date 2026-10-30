@@ -486,6 +486,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aditisonkar12/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -497,6 +498,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0200-number-of-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aditisonkar12/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0210-course-schedule-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aditisonkar12/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/aditisonkar12/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
@@ -518,6 +520,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/aditisonkar12/DSA-Practice/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -730,4 +733,8 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0056-merge-intervals) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
