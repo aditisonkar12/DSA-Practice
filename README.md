@@ -691,6 +691,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
