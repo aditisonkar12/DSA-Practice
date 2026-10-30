@@ -23,6 +23,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0015-3sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/aditisonkar12/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditisonkar12/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -279,6 +280,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/aditisonkar12/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/aditisonkar12/DSA-Practice/tree/master/0289-game-of-life) |
@@ -305,6 +307,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/aditisonkar12/DSA-Practice/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditisonkar12/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/aditisonkar12/DSA-Practice/tree/master/0233-number-of-digit-one) |
