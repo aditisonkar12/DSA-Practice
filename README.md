@@ -38,6 +38,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0219-contains-duplicate-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/aditisonkar12/DSA-Practice/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/aditisonkar12/DSA-Practice/tree/master/0289-game-of-life) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aditisonkar12/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
@@ -131,6 +132,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditisonkar12/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0233-number-of-digit-one](https://github.com/aditisonkar12/DSA-Practice/tree/master/0233-number-of-digit-one) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aditisonkar12/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/aditisonkar12/DSA-Practice/tree/master/0486-predict-the-winner) |
