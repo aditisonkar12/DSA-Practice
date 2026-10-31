@@ -228,6 +228,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditisonkar12/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aditisonkar12/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/aditisonkar12/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/aditisonkar12/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
@@ -318,6 +319,7 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/aditisonkar12/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/aditisonkar12/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/aditisonkar12/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/aditisonkar12/DSA-Practice/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditisonkar12/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -415,6 +417,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0001-two-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditisonkar12/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aditisonkar12/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/aditisonkar12/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/aditisonkar12/DSA-Practice/tree/master/0217-contains-duplicate) |
