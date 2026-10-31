@@ -53,6 +53,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0692-top-k-frequent-words](https://github.com/aditisonkar12/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/aditisonkar12/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/0697-degree-of-an-array) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aditisonkar12/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/aditisonkar12/DSA-Practice/tree/master/0733-flood-fill) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aditisonkar12/DSA-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
@@ -134,6 +135,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0435-non-overlapping-intervals](https://github.com/aditisonkar12/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/aditisonkar12/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aditisonkar12/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0792-number-of-matching-subsequences](https://github.com/aditisonkar12/DSA-Practice/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
@@ -149,6 +151,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0561-array-partition](https://github.com/aditisonkar12/DSA-Practice/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/aditisonkar12/DSA-Practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aditisonkar12/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/aditisonkar12/DSA-Practice/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/aditisonkar12/DSA-Practice/tree/master/0948-bag-of-tokens) |
