@@ -83,6 +83,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/aditisonkar12/DSA-Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aditisonkar12/DSA-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/aditisonkar12/DSA-Practice/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditisonkar12/DSA-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aditisonkar12/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -259,6 +260,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1328-break-a-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/1328-break-a-palindrome) |
 | [1496-path-crossing](https://github.com/aditisonkar12/DSA-Practice/tree/master/1496-path-crossing) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aditisonkar12/DSA-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aditisonkar12/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1816-truncate-sentence](https://github.com/aditisonkar12/DSA-Practice/tree/master/1816-truncate-sentence) |
