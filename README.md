@@ -94,6 +94,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/aditisonkar12/DSA-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/aditisonkar12/DSA-Practice/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/aditisonkar12/DSA-Practice/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2364-count-number-of-bad-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aditisonkar12/DSA-Practice/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/aditisonkar12/DSA-Practice/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aditisonkar12/DSA-Practice/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -344,6 +345,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1927-sum-game](https://github.com/aditisonkar12/DSA-Practice/tree/master/1927-sum-game) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/aditisonkar12/DSA-Practice/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2119-a-number-after-a-double-reversal](https://github.com/aditisonkar12/DSA-Practice/tree/master/2119-a-number-after-a-double-reversal) |
+| [2364-count-number-of-bad-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aditisonkar12/DSA-Practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/aditisonkar12/DSA-Practice/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditisonkar12/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -446,6 +448,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aditisonkar12/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/aditisonkar12/DSA-Practice/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/aditisonkar12/DSA-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2364-count-number-of-bad-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/2405-optimal-partition-of-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aditisonkar12/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -470,6 +473,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0767-reorganize-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0767-reorganize-string) |
 | [1512-number-of-good-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/aditisonkar12/DSA-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2364-count-number-of-bad-pairs](https://github.com/aditisonkar12/DSA-Practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/aditisonkar12/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
