@@ -38,6 +38,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0219-contains-duplicate-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/aditisonkar12/DSA-Practice/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/aditisonkar12/DSA-Practice/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/aditisonkar12/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aditisonkar12/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/aditisonkar12/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
@@ -719,6 +720,7 @@ If you happen to come across this repository, I hope you find these solutions he
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/aditisonkar12/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0848-shifting-letters](https://github.com/aditisonkar12/DSA-Practice/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
@@ -769,4 +771,8 @@ If you happen to come across this repository, I hope you find these solutions he
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/aditisonkar12/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/aditisonkar12/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
