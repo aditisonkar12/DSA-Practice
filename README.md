@@ -186,6 +186,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [2938-separate-black-and-white-balls](https://github.com/aditisonkar12/DSA-Practice/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aditisonkar12/DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aditisonkar12/DSA-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/aditisonkar12/DSA-Practice/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 ## Sorting
 |  |
@@ -362,6 +363,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aditisonkar12/DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aditisonkar12/DSA-Practice/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aditisonkar12/DSA-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/aditisonkar12/DSA-Practice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3876-construct-uniform-parity-array-ii) |
