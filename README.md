@@ -245,6 +245,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0043-multiply-strings](https://github.com/aditisonkar12/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/aditisonkar12/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0212-word-search-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/aditisonkar12/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/aditisonkar12/DSA-Practice/tree/master/0273-integer-to-english-words) |
@@ -396,6 +397,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0061-rotate-list](https://github.com/aditisonkar12/DSA-Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/aditisonkar12/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/aditisonkar12/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/aditisonkar12/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/0541-reverse-string-ii) |
