@@ -118,6 +118,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aditisonkar12/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditisonkar12/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditisonkar12/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -498,6 +499,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditisonkar12/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2747-count-zero-request-servers](https://github.com/aditisonkar12/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aditisonkar12/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aditisonkar12/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -727,6 +729,7 @@ If you happen to come across this repository, I hope you find these solutions he
 | [0303-range-sum-query-immutable](https://github.com/aditisonkar12/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0848-shifting-letters](https://github.com/aditisonkar12/DSA-Practice/tree/master/0848-shifting-letters) |
 | [1480-running-sum-of-1d-array](https://github.com/aditisonkar12/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/aditisonkar12/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/aditisonkar12/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aditisonkar12/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Geometry
