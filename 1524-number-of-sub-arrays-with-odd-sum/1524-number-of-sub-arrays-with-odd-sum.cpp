@@ -7,7 +7,6 @@ public:
 
         for (int x : arr) {
             prefix += x;
-
             if (prefix % 2 == 0) {
                 ans = (ans + odd) % MOD;
                 even++;
